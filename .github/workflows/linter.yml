@@ -1,26 +1,32 @@
-name: Eslint
+name: Node CI
 
-on: push
+on:
+  - push
+  - pull_request
 
 jobs:
+  build:
 
-    runs-on: ubuntu-latest
     
-       strategy:
-       
-         matrix:
-           node-version: [14.x]
+    runs-on: ubuntu-latest
+
+    strategy:
+        
+      matrix:
+        node-version: [14.x]
 
     steps:
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
       - name: Use Node.js ${{ matrix.node-version }}
-        
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-
-      - name: Run Eslint
-        run: make lint
-        
+      - name: npm install
+        run: |
+          make install
         env:
-          DEFAULT_BRANCH: main
+          CI: true
+      - name: Run linter
+        # Run Linter
+        run: |
+          make lint
