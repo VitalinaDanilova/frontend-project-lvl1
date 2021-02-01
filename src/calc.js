@@ -33,7 +33,8 @@ const calcGame = () => {
     const operator = operators[selectedOperator].sign;
     const answer = operators[selectedOperator].method(num1, num2);
 
-    userAnswer = readlineSync.question(`Question: ${num1} ${operator} ${num2} `);
+    userAnswer = readlineSync.question(`Question: ${num1} ${operator} ${num2}
+Your answer: `);
     if (answer === parseInt(userAnswer, 10)) {
       console.log('Correct!');
       i += 1;
