@@ -38,7 +38,7 @@ Your answer: `);
       break;
     }
   } if (i === 3) {
-    console.log(`Congratulations, ${userName}`);
+    console.log(`Congratulations, ${userName}!`);
   }
 };
 
