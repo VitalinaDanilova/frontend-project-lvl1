@@ -36,10 +36,11 @@ Your answer: `);
     } else if (isEven(num) !== userAnswer) {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer
         was '${isEven(num)}'. Let's try again, ${userName}!`);
-      i = 0;
+      break;
     }
+  } if (i === 3) {
+    console.log(`Congratulations, ${userName}`);
   }
-  console.log(`Congratulations, ${userName}`);
 };
 
 export default evenGame;
