@@ -2,8 +2,8 @@
 [![Actions Status](https://github.com/VitalinaDanilova/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/VitalinaDanilova/frontend-project-lvl1/actions)
 <a href="https://codeclimate.com/github/VitalinaDanilova/frontend-project-lvl1"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 [![Linter status](https://github.com/VitalinaDanilova/frontend-project-lvl1/workflows/Node%20CI/badge.svg)](https://github.com/VitalinaDanilova/frontend-project-lvl1/actions)
-[![asciicast](https://asciinema.org/a/pZmFaA7a2GGLwqI0zmLImFVf3.svg)](https://asciinema.org/a/pZmFaA7a2GGLwqI0zmLImFVf3)
-[![asciicast](https://asciinema.org/a/SkCeqZuD1MWs8MhV5RyewI5MZ.svg)](https://asciinema.org/a/SkCeqZuD1MWs8MhV5RyewI5MZ)
-[![asciicast](https://asciinema.org/a/PoRlF7vadSpQnYRuBMQvKjNrC.svg)](https://asciinema.org/a/PoRlF7vadSpQnYRuBMQvKjNrC)
-[![asciicast](https://asciinema.org/a/AJSOqTE4iVrEsj5q3X2Mm9AGr.svg)](https://asciinema.org/a/AJSOqTE4iVrEsj5q3X2Mm9AGr)
-[![asciicast](https://asciinema.org/a/SbV97vy6RjjqqVl0vQqlny0ko.svg)](https://asciinema.org/a/SbV97vy6RjjqqVl0vQqlny0ko)
+[![asciicast](https://asciinema.org/a/5LGdEaUvxoWTQfyLI5hZYPcSt.svg)](https://asciinema.org/a/5LGdEaUvxoWTQfyLI5hZYPcSt)
+[![asciicast](https://asciinema.org/a/hjBZf0mmYB36SbneBDzAhOqBw.svg)](https://asciinema.org/a/hjBZf0mmYB36SbneBDzAhOqBw)
+[![asciicast](https://asciinema.org/a/BOtqkDKA3vOhHh8WOz95eB7uC.svg)](https://asciinema.org/a/BOtqkDKA3vOhHh8WOz95eB7uC)
+[![asciicast](https://asciinema.org/a/qvXgjv7DinzMhYIbwAaWMQmGh.svg)](https://asciinema.org/a/qvXgjv7DinzMhYIbwAaWMQmGh)
+[![asciicast](https://asciinema.org/a/MYppbS3C2TTWn9zqc5JURHl8b.svg)](https://asciinema.org/a/MYppbS3C2TTWn9zqc5JURHl8b)
