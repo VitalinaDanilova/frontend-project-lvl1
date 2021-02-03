@@ -60,7 +60,6 @@ Your answer: `);
   } if (i === 3) {
     console.log(`Congratulations, ${userName}`);
   }
-  return 0;
 };
 
 export default progressionGame;
