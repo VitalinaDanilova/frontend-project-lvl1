@@ -6,6 +6,7 @@
 ### Installation
 
 For installation, copy this repo on your machine and run the following commands:
+
 First: moving to the root of project...
 
 ```
