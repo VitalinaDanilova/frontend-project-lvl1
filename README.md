@@ -6,11 +6,16 @@
 ### Installation
 
 For installation, copy this repo on your machine and run the following commands:
+First: moving to the root of project...
 
 ```
-cd frontend-project-lvl1 // moving to the root project...
+cd frontend-project-lvl1
+```
+And then
+```
 make install
 ```
+Succesful! Try to play:
 
 ### Brain-Even
 Check random number for even
